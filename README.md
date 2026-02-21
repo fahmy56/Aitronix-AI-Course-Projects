@@ -74,7 +74,7 @@ python main.py
 
 ## 💻 Implementation
 
-This project is implemented as a **Multi-file Python project** (Bonus option).
+This project is implemented as a **Multi-file Python project**.
 
 ---
 
